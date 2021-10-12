@@ -1,0 +1,4 @@
+com\tommy\mr\WordCountMapper.class
+com\tommy\mr\WordCount.class
+com\tommy\hdfs\hdfs.class
+com\tommy\mr\WordCountReducer.class
